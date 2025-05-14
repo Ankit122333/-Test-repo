@@ -1,0 +1,3 @@
+Hello dunia!!
+This is the 2nd dummy file.
+I will learn to merge two git repositories here
